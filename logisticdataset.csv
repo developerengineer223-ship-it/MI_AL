@@ -1,0 +1,11 @@
+review,sentiment
+"The product quality is amazing and I love it",Positive
+"Very bad experience, will not buy again",Negative
+"Delivery was okay, nothing special",Neutral
+"Absolutely fantastic service and fast delivery",Positive
+"The item arrived damaged and late",Negative
+"It works as expected",Neutral
+"I am extremely satisfied with this purchase",Positive
+"Worst product ever, totally waste of money",Negative
+"Average quality, not too bad",Neutral
+"Excellent performance and great value",Positive
